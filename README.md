@@ -1,2 +1,3 @@
-Hello! This is DiscordBOT1 a Discord testing ground designed by issagml
-There is not much to it yet but this is subject to change
+There is a problem. 
+Gamedevs built their game but want to make a website. 
+This is a template where you can upload your website
